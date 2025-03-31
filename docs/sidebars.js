@@ -3,7 +3,7 @@ module.exports = {
     "Get-Started/welcome-to-langflow",
     {
       type: "category",
-      label: "Get started",
+      label: "Get it started",
       items: [
         "Get-Started/get-started-installation",
         "Get-Started/get-started-quickstart",
